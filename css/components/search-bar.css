@@ -1,0 +1,14 @@
+.search-bar {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+
+}
+
+.search-bar h3 {
+	font-weight: 500;
+	font-size: 18px;
+}
